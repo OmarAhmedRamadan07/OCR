@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+torchvision
+pillow
+opencv-python-headless
+numpy
+sentencepiece
+protobuf
+pyspellchecker
