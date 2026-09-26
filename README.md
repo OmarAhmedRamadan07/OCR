@@ -45,6 +45,8 @@ OCR/
 
 ## Installation
 
+You have two options: run the app yourself from the terminal, or just open it directly from the live link with no setup at all.
+
 ```bash
 git clone https://github.com/OmarAhmedRamadan07/OCR.git
 cd OCR
@@ -53,13 +55,19 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Run the web app
+### Option 1 — Run the web app from the terminal
 
 ```bash
 streamlit run app.py
 ```
 
 Then open the local URL shown in the terminal, upload an image, and click **Run OCR**.
+
+### Option 2 — Open it directly from the link (no source code needed)
+
+You don't have to clone the repo or install anything at all. The app is already deployed and ready to use straight from your browser:
+
+https://ocr-text-extractor.streamlit.app/
 
 ### Run the notebook
 
